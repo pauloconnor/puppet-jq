@@ -1,6 +1,6 @@
 # jq Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/pauloconnor/puppet-jq.png?branch=master)](https://travis-ci.org/pauloconnor/puppet-jq)
+[![Build Status](https://travis-ci.org/jldbasa/puppet-jq.png?branch=master)](https://travis-ci.org/jldbasa/puppet-jq)
 
 jq is a lightweight and flexible command-line JSON processor - http://stedolan.github.io/jq/
 
@@ -16,4 +16,3 @@ include jq
 
 * boxen
 * homebrew
-
